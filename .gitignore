@@ -1,0 +1,5 @@
+.DS_Store
+
+# Obsidian local UI/session state (not content)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
